@@ -9,19 +9,15 @@
 
 **Hasil Output**
 
-<img width="1440" height="900" alt="Jepretan Layar 2025-09-29 pukul 11 05 49" src="https://github.com/user-attachments/assets/9b2239b4-3c33-477d-95b9-fae22f925bf7" />
+<img width="1920" height="1200" alt="web css" src="https://github.com/user-attachments/assets/9ff22525-0742-4f7c-8c7e-1f1473b22e4c" />
 
 
 
 # Pertemuan 3 - Pemrograman Web
 
-Proyek ini berisi latihan dasar **HTML** dan **CSS** pada mata kuliah **Pemrograman Web** di **Universitas Pelita Bangsa**.  
-Tujuan utamanya adalah memahami penggunaan **CSS Internal**, **CSS Inline**, dan simulasi **CSS Eksternal** dalam satu halaman web.
+Proyek ini merupakan salah satu bentuk latihan dasar yang diberikan kepada mahasiswa dalam rangka mempelajari serta memahami penggunaan HTML dan CSS pada mata kuliah Pemrograman Web di Universitas Pelita Bangsa. Latihan ini tidak hanya sekadar mengajarkan cara menuliskan kode program, tetapi juga bertujuan memberikan pemahaman mendalam mengenai bagaimana sebuah halaman web dibangun mulai dari struktur paling sederhana hingga memiliki tampilan yang lebih menarik dan terorganisir.
 
----
-
-## Struktur File
-- `pertemuan 3.html` → File utama berisi contoh penggunaan HTML & CSS dasar.
+Melalui proyek ini, mahasiswa diharapkan mampu menguasai konsep dasar pembuatan halaman web sederhana dengan memperhatikan struktur penulisan yang benar menggunakan elemen-elemen HTML, seperti heading, paragraf, link, gambar, tabel, maupun form. Selain itu, mahasiswa juga dituntut untuk mempelajari cara mengatur, memperindah, serta menyesuaikan tampilan halaman web dengan memanfaatkan berbagai metode penerapan CSS yang tersedia.
 
 ---
 
@@ -81,8 +77,8 @@ Tag Selector → h1, nav, p
         }
         
         #intro {
-            background: #418fb1;
-            border: 1px solid #099249;
+            background: #1271d6;
+            border: 1px solid #fa0aa2;
             min-height: 100px;
             padding: 10px;
             margin: 20px;
@@ -124,7 +120,7 @@ Tag Selector → h1, nav, p
     <style>
         /* Simulasi CSS Eksternal */
         nav {
-            background: #20A759;
+            background: #d61073;
             color: #fff;
             padding: 10px;
         }
@@ -167,3 +163,4 @@ Tag Selector → h1, nav, p
 </body>
 </html>
 ```
+### Terimakasih
